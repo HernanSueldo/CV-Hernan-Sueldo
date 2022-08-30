@@ -1,0 +1,28 @@
+ul {
+    color: forestgreen;
+    font-family: fantasy;
+}
+
+.estilo1 {
+    color: aquamarine;
+    font-weight: bold;
+    background-color: black;
+}
+
+.caja1 {
+    background-color: green;
+    width: 300px;
+    height: 175px;
+    position: static;
+}
+
+.caja2 {
+    background-color: red;
+    width: 80px;
+    height: 80px;
+    position: static;
+}
+
+#imagen {
+    filter: sepia(80%);
+}
